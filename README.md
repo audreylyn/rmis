@@ -37,6 +37,10 @@ The RMIS is developed using the **Model-View-Controller (MVC)** design pattern, 
 - **Responsive Design**: The application is fully responsive, providing a seamless user experience across all devices.
 - **Data Tables**: Features sorting, filtering, and pagination to manage large sets of data efficiently.
 
+  ## Admin Dashboard
+![Admin Dashboard](screenshots/admin/add_rooms.png)
+
+
 ## Setup and Installation
 1. Clone the repository or download the project files.
 2. Set up **XAMPP** on your local machine for Apache and MySQL.
