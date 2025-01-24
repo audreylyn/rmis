@@ -46,7 +46,7 @@ The RMIS is developed using the **Model-View-Controller (MVC)** design pattern, 
 
 ## Student Dashboard
 ![Register](screenshots/student/register.png)
-![Sign In](screenshots/student/sign_in.png)
+![Sign In](screenshots/student/sign in.png)
 ![Dashboard](screenshots/student/dashboard.png)
 ![New Reservation](screenshots/student/new_Reservation.png)
 ![My Reservation](screenshots/student/my_reservation.png)
