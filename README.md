@@ -46,7 +46,7 @@ The RMIS is developed using the **Model-View-Controller (MVC)** design pattern, 
 
 ## Student Dashboard
 ![Register](screenshots/student/register.png)
-![Sign In](screenshots/student/sign in.png)
+![Sign In](screenshots/student/sign-in.png)
 ![Dashboard](screenshots/student/dashboard.png)
 ![New Reservation](screenshots/student/new_Reservation.png)
 ![My Reservation](screenshots/student/my_reservation.png)
@@ -60,5 +60,3 @@ The RMIS is developed using the **Model-View-Controller (MVC)** design pattern, 
 3. Import the **MySQL database** from the provided SQL file.
 4. Run the application in your local browser.
 
-## Contributing
-Feel free to fork this project and submit pull requests if you have suggestions or improvements. Contributions are always welcome.
