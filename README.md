@@ -50,6 +50,8 @@ The RMIS is developed using the **Model-View-Controller (MVC)** design pattern, 
 ![Dashboard](screenshots/student/dashboard.png)
 ![New Reservation](screenshots/student/new_Reservation.png)
 ![My Reservation](screenshots/student/my_reservation.png)
+![My Reservation](screenshots/student/about-1.jpg)
+![My Reservation](screenshots/student/about-2.jpg)
 ![Mission](screenshots/student/mission.png)
 ![Help](screenshots/student/help.png) Student / help dapat toh hmp
 
