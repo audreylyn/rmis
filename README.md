@@ -37,14 +37,14 @@ The RMIS is developed using the **Model-View-Controller (MVC)** design pattern, 
 - **Responsive Design**: The application is fully responsive, providing a seamless user experience across all devices.
 - **Data Tables**: Features sorting, filtering, and pagination to manage large sets of data efficiently.
 
-## Admin Dashboard
+## Admin
 ![Dashboard View](screenshots/admin/dashboard.png)
 ![Pending Approval](screenshots/admin/pending_approval.png)
 ![Add Rooms](screenshots/admin/add_rooms.png)
 ![Delete Requests](screenshots/admin/delete_requests.png)
 ![Manage Account](screenshots/admin/manage_account.png)
 
-## Student Dashboard
+## Student
 ![Register](screenshots/student/register.png)
 ![Sign In](screenshots/student/sign-in.png)
 ![Dashboard](screenshots/student/dashboard.png)
